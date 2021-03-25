@@ -1,0 +1,2 @@
+# spenditTask
+Spendit Interview task
